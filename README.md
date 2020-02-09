@@ -10,3 +10,7 @@ This repository contains PTI related materials, excercises which are not part of
 ## Excercises
 
 The mentioned books contain excercises. These excercises can be found in the repo's sub directories.
+
+## Questions
+
+The questions will be maintained in Questions.md, which is in the root of the repo, where this Readme resides.
