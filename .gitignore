@@ -1,0 +1,17 @@
+# Clean Folder created by IDE "Clean System Files"
+**/Clean System Files/
+
+# Clean Property Files
+*.prp
+
+# Clean Project Files
+*.prj
+
+# Clean Object Files
+*.o
+
+# Clean ABC Machine Code Files
+*.abc
+
+# Executables
+*.exe
